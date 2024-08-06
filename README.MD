@@ -37,16 +37,16 @@ The dataset consisted of eight tables, including information about sales, region
 
 ## Recommendations
 
-***Regional Expansion:*** Develop targeted strategies to penetrate underserved regions, particularly the North and Central-West. Focus on states with low sales and customer percentages to diversify the sales customer base beyond São Paulo and offset the observed stagnation in overall sales and customer growth.
+**Regional Expansion:** Develop targeted strategies to penetrate underserved regions, particularly the North and Central-West. Focus on states with low sales and customer percentages to diversify the sales customer base beyond São Paulo and offset the observed stagnation in overall sales and customer growth.
 
-***Order Frequency and Value Optimization:*** Analyze factors contributing to higher average order values and leverage these insights to increase order frequency. Enhance product mix, improve cross-selling and upselling techniques, and refine the customer experience to encourage more frequent, high-value purchases.
+**Order Frequency and Value Optimization:** Analyze factors contributing to higher average order values and leverage these insights to increase order frequency. Enhance product mix, improve cross-selling and upselling techniques, and refine the customer experience to encourage more frequent, high-value purchases.
 
-***Category Performance Management:*** Capitalize on the success of top-performing categories (Home & Living, Electronics & Tech, Fashion & Accessories) and emerging growth areas (Auto & Industrial, Security Products, Food & Drink). Investigate and address issues in underperforming categories like Gardening and Travel & Luggage. Reallocate resources strategically to stimulate overall sales growth across a diverse product range.
+**Category Performance Management:** Capitalize on the success of top-performing categories (Home & Living, Electronics & Tech, Fashion & Accessories) and emerging growth areas (Auto & Industrial, Security Products, Food & Drink). Investigate and address issues in underperforming categories like Gardening and Travel & Luggage. Reallocate resources strategically to stimulate overall sales growth across a diverse product range.
 
 
 
 ## Caveats and Next Steps
-**Customer Data Integrity:** Lack of identifiable repeat customers over three years affected our ability to analyze of customer behavior, lifetime value and retention rates. It also calls into question the accuracy of our customer growth metrics. ***Audit and implement a robust customer identification system across all channels then conduct cohort analysis for accurate customer lifetime value assessment.***
+**Customer Data Integrity:** Lack of identifiable repeat customers over three years affected our ability to analyze of customer behavior, lifetime value and retention rates. It also calls into question the accuracy of our customer growth metrics. ***Audit and implement a robust customer identification system across all channels and then conduct cohort analysis for accurate customer lifetime value assessment.***
 
 **Limited Historical Context and Analysis Scope:** The analysis primarily focuses on 2018 data with some year-over-year comparisons, limiting our ability to identify long-term trends and seasonality. ***Expand the analysis timeframe to include more historical data for better trend and seasonality insights.***
 
