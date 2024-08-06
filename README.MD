@@ -46,19 +46,16 @@ The dataset consisted of eight tables, including information about sales, region
 
 
 ## Caveats and Next Steps
-#### Customer Data Integrity:
-The data suggests no repeated orders from any customer over three years, which is highly unlikely for an e-commerce platform. This indicates a significant issue with customer identification or tracking which affects our ability to analyze customer behavior, lifetime value, and retention rates. It also calls into question the accuracy of our customer growth metrics. **Conduct a thorough audit of the customer identification process across all sales channels and implement a robust, persistent customer ID system. Once data quality issues are addressed, conduct a comprehensive cohort analysis to understand true customer retention and lifetime value.**
+**Customer Data Integrity:** Lack of identifiable repeat customers over three years affected our ability to analyze of customer behavior, lifetime value and retention rates. It also calls into question the accuracy of our customer growth metrics. ***Audit and implement a robust customer identification system across all channels then conduct cohort analysis for accurate customer lifetime value assessment.***
 
-#### Limited Historical Context and Analysis Scope:
-The analysis primarily focuses on 2018 data with some year-over-year comparisons, limiting our ability to identify long-term trends and seasonality. **Expand the analysis timeframe to include more historical data for better trend and seasonality insights.**
+**Limited Historical Context and Analysis Scope:** The analysis primarily focuses on 2018 data with some year-over-year comparisons, limiting our ability to identify long-term trends and seasonality. ***Expand the analysis timeframe to include more historical data for better trend and seasonality insights.***
 
-#### Enhanced Data Collection and ROI Analysis:
-Current data lacks ROI metrics and in-depth customer behavior insights, limiting analysis of marketing effectiveness. **Incorporate ROI and marketing channel data, implement a privacy-compliant loyalty program to improve customer tracking, and conduct comprehensive campaign analysis for better revenue trend insights.**
+**Enhanced Data Collection and ROI Analysis:** Current data lacks ROI metrics and in-depth customer behavior insights, limiting analysis of marketing effectiveness. ***Incorporate ROI and marketing channel data, implement a privacy-compliant loyalty program to improve customer tracking, and conduct comprehensive campaign analysis for better revenue trend insights.***   
 
 
 
 ## Dashboard
-The dashboard can be found in Tableau Public [here](hhttps://public.tableau.com/views/E-commerce_17229706346940/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). This dashboard enables users to filter by year, mothm region, state, and product categories, and focuses on trends and values in sales metrics.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/views/E-commerce_17229706346940/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). This dashboard enables users to filter by time, region and product categories, and focuses on trends and values in sales metrics.
 
 <img width="1000" alt="image" src="assets/images/Sales Dashboard.png">
 
