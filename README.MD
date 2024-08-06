@@ -4,7 +4,7 @@
 **Founded in 2016, Olist is an e-commerce marketplace integrator that helps small businesses sell their products to larger markets through online marketplaces like Amazon and Mercado Libre**. In the middle of 2018, they are strategizing their sales performance, the company would like to build more understanding of the what drives their sales and how they can be improved.
 
 ## Dataset Structure
-The dataset consisted of eight tables, including information about sales, region, order time, customers, sellers, products and product categories.
+The dataset comprises eight tables containing information about sales, regions, order times, customers, sellers, products, and product categories. These tables were merged using SQL, and the query can be found [here](https://github.com/madokahazemi/Olist_e-commerce/blob/main/Olist_merge_tables.sql).
 
 <img width="800" alt="image" src="assets/images/dataset_structure.png">
 
